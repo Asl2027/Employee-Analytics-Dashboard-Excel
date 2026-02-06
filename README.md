@@ -31,6 +31,6 @@ The dashboard enables HR and business stakeholders to quickly understand workfor
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot 2026-02-06 113256.png)
 
 
