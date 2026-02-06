@@ -27,3 +27,8 @@ This dataset is used for analytical and demonstration purposes.
 
 ## Outcome
 The dashboard enables HR and business stakeholders to quickly understand workforce trends and support data-driven decision-making.
+
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
