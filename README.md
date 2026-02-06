@@ -15,6 +15,12 @@ This project is an interactive Excel dashboard designed to analyze employee data
 - Average Experience
 - Percentage of Senior Management
 
+## Key Insights
+- Engineering and Sales teams have the highest average salaries.
+- Average employee experience across teams is approximately 26 years.
+- Senior management makes up about 47% of the total workforce.
+- Client Services and Human Resources show higher average experience levels compared to other teams.
+
 ## Dashboard Features
 - Team-wise salary and experience analysis
 - Gender distribution across employees
