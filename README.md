@@ -3,6 +3,9 @@
 ## Project Overview
 This project is an interactive Excel dashboard designed to analyze employee data and provide insights into workforce composition, salary distribution, experience levels, and senior management representation.
 
+## Business Use Case
+This dashboard can be used by HR leaders to monitor workforce structure, identify high-cost teams, and assess experience distribution for succession planning.
+
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables & Pivot Charts
